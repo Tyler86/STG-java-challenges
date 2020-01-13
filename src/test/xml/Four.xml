@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name=" STG Certification" verbose="1" >
+    <test name="challenge 4">
+        <classes>
+            <class name="Six.Six"/>
+        </classes>
+    </test>
+</suite>
